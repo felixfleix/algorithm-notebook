@@ -1,4 +1,4 @@
-package com.felix.leetcode;
+package com.felix.leetcode.slidingwindow;
 
 public class _1456 {
 
