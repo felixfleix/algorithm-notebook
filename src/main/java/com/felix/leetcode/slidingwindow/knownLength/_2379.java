@@ -1,4 +1,4 @@
-package com.felix.leetcode.slidingwindow;
+package com.felix.leetcode.slidingwindow.knownLength;
 
 /**
  * 2379. 得到 K 个黑块的最少涂色次数
